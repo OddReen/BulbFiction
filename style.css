@@ -1,0 +1,18 @@
+#Bod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Desligar {
+    background-color: black;
+    transition: background-color 0.3s ease-out;
+  }
+  
+  .Ligar {
+    background-color: white;
+    transition: background-color 0.3s ease-out;
+  }
+#Botão{
+    position: fixed;
+    margin-left: 50%;
+}
